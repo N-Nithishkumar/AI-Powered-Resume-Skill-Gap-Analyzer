@@ -8,7 +8,7 @@ Built to move beyond traditional ATS systems and provide **actionable career gui
 
 # 📌 Project Overview
 
-Given a candidate’s resume and a selected job role, the system:
+Given a candidate’s resume and a selected job role, the system :
 
 1. Extracts skills from the resume using NLP techniques.
 2. Understands **semantic meaning** of skills instead of keyword matching.
