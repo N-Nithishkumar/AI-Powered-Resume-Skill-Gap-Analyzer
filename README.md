@@ -21,7 +21,7 @@ Given a candidate’s resume and a selected job role, the system :
 
 ## 🧠 Example Output
 
-```text
+```text 
 Target Role: Machine Learning Engineer
 
 Skill Match: 68%
