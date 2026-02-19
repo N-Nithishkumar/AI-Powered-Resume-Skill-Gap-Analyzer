@@ -1,5 +1,6 @@
 # 🧠 AI-Powered Resume Skill Gap Analyzer
 
+
 An intelligent machine learning system that analyzes a candidate’s **resume** against a **target job role** and predicts **skill match percentage**, **missing skills**, and a **personalized learning roadmap** using NLP and semantic similarity.
 
 Built to move beyond traditional ATS systems and provide **actionable career guidance** instead of simple rejection.
