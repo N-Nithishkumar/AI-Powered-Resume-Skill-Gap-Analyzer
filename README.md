@@ -16,7 +16,7 @@ Given a candidate’s resume and a selected job role, the system :
 3. Compares resume skills with role-specific requirements.
 4. Calculates a **skill match percentage**.
 5. Identifies **missing and weak skills**.
-6. Generates a **personalized upskilling roadmap**.
+6. Generates a **personalized upskilling roadmaps**.
 
 ---
 
